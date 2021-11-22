@@ -1,0 +1,9 @@
+save_dir: "your save directory"
+user_list_data: ./data/user_list.csv
+hashtag_list_data: ./data/hashtag_list.csv
+
+API_KEY: "your API KEY"
+API_KEY_SECRET: "your API KEY SECRET"
+
+ACCESS_TOKEN: "your ACCESS TOKEN"
+ACCESS_TOKEN_SECRET: "your ACCESS TOKEN SECRET"
